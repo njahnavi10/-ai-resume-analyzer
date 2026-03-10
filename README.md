@@ -9,7 +9,7 @@ This tool helps job seekers optimize their resumes to better match job requireme
 ## 🚀 Live Demo
 
 ```
-(https://v6ciksjekw2cq6wuckylry.streamlit.app/)
+https://v6ciksjekw2cq6wuckylry.streamlit.app/
 ```
 
 ---
