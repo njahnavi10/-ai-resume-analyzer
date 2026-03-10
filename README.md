@@ -8,12 +8,8 @@ This tool helps job seekers optimize their resumes to better match job requireme
 
 ## 🚀 Live Demo
 
-*(Add your deployed Streamlit link here)*
-
-Example:
-
 ```
-https://ai-resume-analyzer.streamlit.app
+(https://v6ciksjekw2cq6wuckylry.streamlit.app/)
 ```
 
 ---
